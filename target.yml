@@ -1,0 +1,8 @@
+starter: 
+   microservice1:
+      name: xxxMicroervice
+      order: 1
+      projectPath: xxx\Desktop\xx-group\xx-microservice
+      mvnOptions:
+        build: true
+        skipTest: false

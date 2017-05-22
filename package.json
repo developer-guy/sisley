@@ -1,0 +1,17 @@
+{
+  "name": "commandline-app",
+  "version": "1.0.0",
+  "description": "This application is about to run jar files of your microservices with specific options",
+  "author": "SAHABT",
+  "license": "ISC",
+  "bin": {
+    "sisley": "starter.js"
+  },
+  "dependencies": {
+    "async": "^2.3.0",
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "figlet": "^1.2.0",
+    "yamljs": "^0.2.10"
+  }
+}
