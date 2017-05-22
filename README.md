@@ -1,5 +1,5 @@
-Firsly you must clone this project on your local .	
--- git clone http://batuhanapaydin@10.170.146.138:8080/scm/git/ebranch/sisley-commandline-app
+Firsly you must clone this project on your local .	This project work in Windows only now.
+-- git clone 
 Then go this project source and run .
 -- npm i -g sisley-commandline-app
 
